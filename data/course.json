@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Social Welfare"
+    ]
+  ],
+  "legacy_uid": "e5f2121e-842f-8505-a671-b6863fbd9f8b",
+  "instructors": {
+    "content": [
+      "c6cb4360-1857-b405-22ba-0caa2919a852"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "427d4fc3-5d71-e489-0d03-7d1925d7eed4",
+    "website": "17-317-u-s-social-policy-spring-2006"
+  },
+  "course_title": "U.S. Social Policy",
+  "course_description": "This subject examines the historical development and contemporary politics of social policy in the United States. We will discuss the kinds of risks individuals face over a lifetime and why some are ameliorated by social policy while others are not (and how the U.S. is similar or different from other countries in this regard). We will examine the policymaking process in the U.S., why some alternatives are implemented and others abandoned, why some interests are privileged over others, and how the designs of policies can feed back and shape politics in a given policy area. Along the way we will examine interactions among political institutions, policy elites, the media, and the mass public.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.317",
+  "course_image_thumbnail": {
+    "content": "70253adf-7be2-26a2-b0cc-bb584b2f802b",
+    "website": "17-317-u-s-social-policy-spring-2006"
+  },
+  "learning_resource_types": [],
+  "site_uid": "dad7d67c-5819-4621-b041-4456b6a73603",
+  "site_short_id": "17.317-spring-2006",
+  "site_url_path": "courses/17-317-u-s-social-policy-spring-2006",
+  "title": "Course Metadata"
+}
