@@ -2,8 +2,6 @@
 content_type: page
 description: The Study Materials section contains information on study material for
   the course including finding source, citation.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -27,13 +25,13 @@ From these electronic archives you can do keyword searches and download scholarl
 
 ### Government Documents and Reports
 
-For many of your topics, you may want government figures about how many people receive a given program, etc. I'd start with the Statistical Abstract, available at the [U.S. Census Bureau](http://www.census.gov/). You may also find stats at the Bureau of Labor Statistics and the Commerce Dept Web sites. Agencies that run your program will also have data.
+For many of your topics, you may want government figures about how many people receive a given program, etc. I'd start with the Statistical Abstract, available at the {{% resource_link "c21ecec1-8e9f-41a2-bcaf-81218ad8f1f0" "U.S. Census Bureau" %}}. You may also find stats at the Bureau of Labor Statistics and the Commerce Dept Web sites. Agencies that run your program will also have data.
 
 ### Public Opinion Sources
 
 There are two main archives that allow keyword searching for survey items, the Roper Center archive at UConn, and the Odum Institute at UNC. To access the Roper database, go to the Vera electronic databases page on the library Web site, and type in Lexis Nexis Academic. Once on their site, click on "Reference" under "Academic Search Forms" and then click on "Polls & Surveys." From there you can do keyword searches; you probably want to limit to a certain time period, because you'll get a lot of items on most of your topics.
 
-[Odum Institute Public Opinion Poll Question Database](http://gethelp.library.upenn.edu/guides/polisci/polls.html). The keyword search engine has national Harris polls as well as a large number of state polls.
+{{% resource_link "d92e597f-d99c-44ca-b966-193a3c74ce92" "Odum Institute Public Opinion Poll Question Database" %}}. The keyword search engine has national Harris polls as well as a large number of state polls.
 
 Another source of public opinion data is the journal _Public Opinion Quarterly_. It has a feature in each issue where public opinion questions to some topic, like welfare or health insurance, are summarized.
 
@@ -63,7 +61,7 @@ Any of these formats is acceptable, but if you have many citations of a "bulky" 
 
 For these last two methods, I would prefer footnotes to endnotes.
 
-To cite polls, mention the polling organization, the poll title, date administered, and sources (either the published source, if you got it from a book or a journal like _Public Opinion Quarterly_, or the URL if you got it off the Web). Example: Kaiser Family Foundation, "Americans and Health Care," June 2-4, 2002, [www.kff.org](http://www.kff.org/) . . .
+To cite polls, mention the polling organization, the poll title, date administered, and sources (either the published source, if you got it from a book or a journal like _Public Opinion Quarterly_, or the URL if you got it off the Web). Example: Kaiser Family Foundation, "Americans and Health Care," June 2-4, 2002, {{% resource_link "61b143ac-539e-4018-b054-90ada03837f4" "www.kff.org" %}} . . .
 
 Other Tips for Writing
 ----------------------
